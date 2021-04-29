@@ -1,0 +1,25 @@
+
+body{
+	width: 100%;
+}
+.h1{
+	width: 100%;
+	font-size: 40px;
+	color: block;
+	background: orange;
+	font-weight: 700;
+	text-align: center;
+}
+img{
+	width: 100%;
+}
+.slideButtons{
+	margin-left: 560px;
+}
+button {
+    width: 38px;
+    background: black;
+    color: white;
+    display: inline-block;
+    margin-left: 5px;
+}
